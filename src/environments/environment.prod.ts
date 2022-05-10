@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://carlos-dio-bankline-api.herokuapp.com'
+  apiUrl: 'https://artigobsi-redes-api-2020.herokuapp.com/'
 };
