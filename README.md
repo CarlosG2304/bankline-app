@@ -10,6 +10,6 @@
 
 ### Link para a api: https://github.com/CarlosG2304/bankline-api-devweek
 
-### Link do site no netlify: https://bancodaufra.netlify.app/movimentacoes
+### Link do site no netlify: https://bancodaufra.netlify.app
 
 
